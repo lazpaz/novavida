@@ -25,7 +25,7 @@ body {
     position: fixed;
     opacity: .8;
     z-index: -1;
-    background: #f12711;
+    background: #ffffff;
     background: -webkit-linear-gradient(to right, #f5af19, #f12711);
     background: linear-gradient(to right, #f5af19, #f12711); }
 
@@ -169,7 +169,7 @@ a {
   color: #333;
   text-shadow: none;
   /* Prevent inheritance from `body` */
-  background-color: #fff;
+  background-color: #000000;
   border: .05rem solid #fff; }
 
 .btn:not(.btn-link):hover {
@@ -178,7 +178,7 @@ a {
   transform: translateY(-1px); }
 
 .btn-orange {
-  background-color: #FDBA51 !important;
+  background-color: #ffffff !important;
   color: #fff !important;
   border: none !important; }
 
@@ -188,7 +188,7 @@ a {
   border: none !important; }
 
 .btn-red {
-  background-color: #FC665F !important;
+  background-color: #ffffff !important;
   color: #fff !important;
   border: none !important; }
 
@@ -207,7 +207,7 @@ a {
   color: #000; }
 
 .navbar-nav .nav-link {
-  color: #ffffff;
+  color: #000000;
   transition: .3s ease; }
 
 .navbar-nav:hover li a {
